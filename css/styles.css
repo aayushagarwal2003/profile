@@ -1,0 +1,119 @@
+body{
+
+  margin: 0;
+
+}
+
+.name{
+  background-color: #E4F9F5;
+height: 100vh;
+text-align: center;
+}
+
+.aayush{
+
+  position: relative;
+  color: #1F1D36;
+  font-size: 7rem;
+  top: 27%;
+
+}
+
+.programmer{
+  top: 29%;
+  position: relative;
+  color: #1F1D36;
+  font-size: 4rem;
+}
+
+.about{
+  background-color: #1F1D36 ;
+height: 100vh;
+
+}
+
+.hello{
+  color:#E4F9F5;
+  font-size: 4rem;
+padding-top: 13%;
+padding-left: 15%;
+
+}
+
+p
+{
+  color:#E4F9F5;
+  font-size: 2rem;
+padding-top: 1%;
+padding-left: 15%;
+margin-top: 0;
+margin-bottom: 0;
+}
+.pa{
+  background-color: #E4F9F5;
+height: 100vh;
+text-align: center;
+}
+
+
+
+.photo{
+  display: inline-block;
+
+}
+img{
+  height: 5%;
+  width: 5%;
+  padding: 2% 2% 2% 2%;
+}
+
+.skill{
+  color: #1F1D36;
+  font-size: 4.5rem;
+  padding-top: 16%;
+
+}
+
+.contact{
+  background-color: #1F1D36 ;
+height: 100vh;
+
+
+}
+
+.text{
+  color:#E4F9F5;
+  font-size: 4rem;
+padding-top: 11%;
+padding-left: 40%;
+
+}
+.email{
+  font-size: 2rem;
+    color:#E4F9F5;
+    padding-left: 40%;
+
+
+
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #1F1D36;
+  font-size: 1rem;
+  background: #E4F9F5;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
+.a{
+  padding-top: 1%;
+  padding-left: 40%;
+
+
+}
